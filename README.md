@@ -1,5 +1,8 @@
 ### Hi there, I'm [Usman Khan](https://linkedin.com/in/usmanniazi99) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
+[![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Usman_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanNiazi99)
+
 
 I'm a
 - Machine Learning Engineer 💻
@@ -7,15 +10,12 @@ I'm a
 - Open Source Contributor 🤝
 - Speaker🎤
 - Writer✒️
-- 
 
 
 <br />
-<img align="right" height="270px" width="450px" src="svg/emojis/usman.svg" />
+<img align="right" height="270px" width="450px" src="svg/emojis/usman.jpeg" />
 <br />
-
-[![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Usman_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanNiazi99)
+<br />
 
 
 ### Connect with me:
