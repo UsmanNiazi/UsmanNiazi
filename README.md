@@ -51,7 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [NUML Guidelines | NUML Grading | NUML GPA | Relegation and Probation Critera](https://www.youtube.com/watch?v=VArC7jg5NAk)
+- [Hacktoberfest 2020 Swag T shirt unboxing](https://www.youtube.com/watch?v=fMeI1kTHOF0)
+- [Bytewise PC Showcase Ryzen 7](https://www.youtube.com/watch?v=eYRB9psDKKM)
+- [Hacktoberfest 2020 Swag Unboxing](https://www.youtube.com/watch?v=5MYBkKXkVOA)
+- [Unboxing Google Cloud Seekho 2.0 Swag](https://www.youtube.com/watch?v=DqG6OdstXoI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCpJ2F7L3PDpYp-SBiW6NE-Q/videos)
