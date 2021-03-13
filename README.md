@@ -5,15 +5,13 @@
 
 
 I'm a
+
 - Machine Learning Engineer 💻
 - Python Engineer
 - Open Source Contributor 🤝
 - Speaker🎤
 - Writer✒️
 
-<br />
-<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/emojis/usman.svg" />
-<br />
 <br />
 
 
@@ -28,10 +26,19 @@ I'm a
 
 <br />
 
-<img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true" />
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true"/>
+  </a>
+</p>
+
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi"/>
+  </a>
+</p>
 
 <br />
 
