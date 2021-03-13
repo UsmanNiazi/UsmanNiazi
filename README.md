@@ -20,7 +20,76 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
+
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">    
+
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+
+
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+</p>
+
+
+### Expert in
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
