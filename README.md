@@ -1,7 +1,7 @@
 ### Hi there, I'm Usman Khan 👋
 
 [![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/UsmanNiazi99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanKhan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Usman_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanNiazi99)
 
 ## I'm a Machine Learning Engineer, Developer, and Teacher!!
 
@@ -13,12 +13,19 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Usman Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Usman Khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Usman Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Usman Khan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+<img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi" />
+
 
 ### Languages:
 
@@ -26,23 +33,25 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">    
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-
-
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-
-
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-
-
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-  <img src="https://raw.githubusercontent.com/UsmanNiazi/UsmanNiazi/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+  </a>  
 </p>
 
 
@@ -82,21 +91,6 @@
   <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin: 4px">
   </a> 
-
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" style="vertical-align:top; margin: 4px">
-  </a> 
-
-  
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" style="vertical-align:top; margin: 4px">
-  </a> 
-
-
-
-
 </p>
 
 
@@ -138,7 +132,6 @@
 
 </details>
 
-<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true" />
 
