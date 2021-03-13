@@ -1,14 +1,22 @@
-### Hi there, I'm Usman Khan 👋
+### Hi there, I'm [Usman Khan](https://linkedin.com/in/usmanniazi99) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+
+
+I'm a
+- Machine Learning Engineer 💻
+- Python Engineer
+- Open Source Contributor 🤝
+- Speaker🎤
+- Writer✒️
+- 
+
+
+<br />
+<img align="right" height="270px" width="450px" src="svg/emojis/usman.svg" />
+<br />
 
 [![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Usman_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanNiazi99)
 
-## I'm a Machine Learning Engineer, Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
@@ -21,10 +29,11 @@
 <br />
 
 <img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true" />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi" />
+<br />
 
 
 ### Languages:
@@ -131,10 +140,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-
-<img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true" />
-
 
 
 
