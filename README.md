@@ -13,7 +13,7 @@ I'm a
 </p>
 
 <br />
-<img align="right" height="270px" width="450px" src="svg/emojis/usman.svg" />
+<img align="right" height="170px" width="350px" src="svg/emojis/usman.svg" />
 <br />
 <br />
 
