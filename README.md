@@ -3,14 +3,14 @@
 [![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Usman_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanNiazi99)
 
-
+<p align="left">
 I'm a
 - Machine Learning Engineer 💻
 - Python Engineer
 - Open Source Contributor 🤝
 - Speaker🎤
 - Writer✒️
-
+</p>
 
 <br />
 <img align="right" height="270px" width="450px" src="svg/emojis/usman.svg" />
@@ -19,13 +19,14 @@ I'm a
 
 
 ### Connect with me:
-
+<p align="center">
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Usman Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Usman Khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Usman Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Usman Khan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+</p>
 <br />
 
 <img align="left" alt="Usman Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true" />
