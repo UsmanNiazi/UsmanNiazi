@@ -1,163 +1,46 @@
-### Hi there, I'm [Usman Khan](https://linkedin.com/in/usmanniazi99) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+<h1 align="center">Hi 👋, I'm Usman Khan</h1>
+<h3 align="center">A Senior Data Engineer From Islamabad, Pakistan</h3>
 
-[![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Usman_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUsmanNiazi&screen_name=UsmanNiazi99)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanniazi&label=Profile%20views&color=0e75b6&style=flat" alt="usmanniazi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanniazi" alt="usmanniazi" /></a> </p>
 
-I'm a
+<p align="left"> <a href="https://twitter.com/usmankhandev" target="blank"><img src="https://img.shields.io/twitter/follow/usmankhandev?logo=twitter&style=for-the-badge" alt="usmankhandev" /></a> </p>
 
-- Machine Learning Engineer 💻
-- Python Engineer
-- Open Source Contributor 🤝
-- Speaker🎤
-- Writer✒️
+- 🔭 I’m currently working on **Microsoft Azure & AWS**
 
-<br />
+- 👯 I’m looking to collaborate on **Data Engineering, Python, ML, NLP,**
 
+- 📝 I regularly write articles on [usmanniazi](usmanniazi)
 
-### Connect with me:
+- 💬 Ask me about **Python, Azure, Cloud, Data Engineering, Machine Learning, Natural Language Processing (NLP)**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Usman Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Usman Khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Usman Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Usman Khan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me **usmankhanq@outlook.com**
 
+- 📄 Know about my experiences [linkedin.com/in/usmanniazi99](linkedin.com/in/usmanniazi99)
 
-<br />
+- ⚡ Fun fact **I love Chai, Chess & Traveling**
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true"/>
-  </a>
-</p>
-
-<br />
-
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi"/>
-  </a>
-</p>
-
-<br />
-
-
-### Languages:
-
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-
-
-### Expert in
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-  </a>  
-   <a href="#">
-    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin: 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin: 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin: 4px">
-  </a>  
-   <a href="#">
-    <img src="svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin: 4px">
-  </a>  
-   <a href="#">
-    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin: 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin: 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin: 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin: 4px">
-  </a> 
-</p>
-
-
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [3 Tier Architecture Project in C# Asp.net](https://www.youtube.com/watch?v=hjk-iRTFuf8)
-- [Building a Windows CRUD Application with  C#](https://www.youtube.com/watch?v=nT8v-CaqtJ8)
-- [C# asp.net Crud Application Tutorial](https://www.youtube.com/watch?v=i9F_fhTo3qg)
-- [Getting Started with NLP and Machine Learning | NLP Roadmap | Myths in ML](https://www.youtube.com/watch?v=xsWj_AJeW3c)
-- [NUML Guidelines | NUML Grading | NUML GPA | Relegation and Probation Critera](https://www.youtube.com/watch?v=VArC7jg5NAk)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCpJ2F7L3PDpYp-SBiW6NE-Q/videos)
-
----
-
-### 📕 Latest Blog Posts
-
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/usmankhan)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/usmankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="usmankhan" height="30" width="40" /></a>
+<a href="https://twitter.com/usmankhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmankhandev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usmanniazi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usmanniazi99" height="30" width="40" /></a>
+<a href="https://instagram.com/usmankhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmankhandev" height="30" width="40" /></a>
+<a href="https://medium.com/@usmanniazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@usmanniazi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bytewise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bytewise" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanniazi&show_icons=true&locale=en&layout=compact" alt="usmanniazi" /></p>
 
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanniazi&show_icons=true&locale=en" alt="usmanniazi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanniazi&" alt="usmanniazi" /></p>
 
-
-
-[website]: https://UsmanNiazi.github.io
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/UsmanNiazi99
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/_usmanniazi
-[linkedin]: https://linkedin.com/in/UsmanNiazi99
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
