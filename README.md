@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Your Career as an AWS Data Engineer](https://towardsaws.com/how-to-start-your-career-as-an-aws-data-engineer-8c04ba3159e4?source=rss-7a69e0c746be------2)
+- [How to Start Your Career as an AWS Data Engineer](https://medium.com/towards-aws/how-to-start-your-career-as-an-aws-data-engineer-8c04ba3159e4?source=rss-7a69e0c746be------2)
 - [Moving data from MongoDB to PostgreSQL using AWS Glue: A Guide](https://dev.to/usmankhan/moving-data-from-mongodb-to-postgresql-using-aws-glue-a-guide-43gn)
 - [Moving data from MongoDB to PostgreSQL using AWS Glue: A Guide](https://usmanniazi.medium.com/moving-data-from-mongodb-to-postgresql-using-aws-glue-a-guide-3b1c196b4ec8?source=rss-7a69e0c746be------2)
 - [QUEST FOR A BETTER DATABASE](https://usmanniazi.medium.com/quest-for-a-better-database-65bce2e432d6?source=rss-7a69e0c746be------2)
